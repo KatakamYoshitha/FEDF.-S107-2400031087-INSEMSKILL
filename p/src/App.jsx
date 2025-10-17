@@ -11,8 +11,8 @@ const ProductPopup = () => {
       shortDesc: "Comfortable cotton hoodie with university logo.",
       longDesc:
         "This high-quality hoodie is made from 100% cotton and features the official KL University logo. Perfect for casual wear and college events!",
-      image:
-        "https://via.placeholder.com/250x200.png?text=KL+University+Hoodie",
+      image: "src/KL.jpg"
+
     },
     {
       id: 2,
@@ -21,8 +21,7 @@ const ProductPopup = () => {
       shortDesc: "Eco-friendly stainless steel bottle.",
       longDesc:
         "Keep your beverages hot or cold for hours with this double-wall stainless steel bottle. Engraved with the KL University emblem.",
-      image:
-        "https://via.placeholder.com/250x200.png?text=KL+University+Bottle",
+      image: "src/bottle.jpg.png",
     },
     {
       id: 3,
@@ -31,8 +30,7 @@ const ProductPopup = () => {
       shortDesc: "Stylish spiral notebook for students.",
       longDesc:
         "A durable spiral notebook with 200 ruled pages and a soft-touch cover featuring the KL University crest. Great for taking notes in class.",
-      image:
-        "https://via.placeholder.com/250x200.png?text=KL+University+Notebook",
+      image: "src/no.jpg.png",
     },
   ];
 
